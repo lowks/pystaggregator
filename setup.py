@@ -10,6 +10,7 @@ setup(name='pystaggregator',
       author='Rob Tandy',
       author_email='rob.tandy@gmail.com',
       url='https://github.com/robtandy/pystaggregator',
+      description='A python client to staggregator',
       long_description="""
       python client to provide instrumentaiton that will send stats (timers 
       and counters) to staggregator (https://github.com/robtandy/staggregator),
